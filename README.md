@@ -1,2 +1,1 @@
-# CricketGame
-Using Js it is good practice cricket game
+Cricket Game Its fun way to practice my js skill some updates are under way coming soon but before that enjoy it.....
